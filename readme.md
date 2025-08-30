@@ -55,11 +55,12 @@ Le résultat final suit la structure classique d’une dissertation :
 - [ ] Intégrer la broderie finale (intro + conclusion).  
 
 ### Étapes techniques
-- [ ] Extraction du texte HTML en phrases.  
-- [ ] Génération des embeddings avec Ollama.  
-- [ ] Recherche brute force de triplets proches.  
-- [ ] Prompting LLM pour formuler des arguments.  
-- [ ] Vectorisation des arguments.  
+- [x] Extraction du texte HTML en phrases.  
+- [x] Génération des embeddings avec Ollama.  
+- [x] Recherche brute force de triplets proches.  
+- [x] Prompting LLM pour formuler des arguments.  
+- [x] Vectorisation des arguments.  
+- [x] Analyse semantique et stylistique de la question.  
 - [ ] Calcul dialectique (opposés + vecteur normal).  
 - [ ] Génération du texte complet via Ollama.  
 
